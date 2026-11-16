@@ -53,4 +53,11 @@ for i in range(5):
 l1 = ["apple", "banana", "cherry"]
 for item in l1:
     print(item)
-    
+
+
+for i in range(1, 6):
+    for j in range(1, 6):
+        for k in range(1, 6):
+            print(i, j, k)
+
+
